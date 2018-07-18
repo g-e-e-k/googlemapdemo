@@ -2,16 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Untitled layer</name>
-    <StyleMap id="icon-1899-0288D1-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-000000-1200-77-nodesc-normal">
       <LineStyle>
         <color>ff000000</color>
