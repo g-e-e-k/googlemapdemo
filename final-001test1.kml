@@ -5,11 +5,11 @@
     <description/>
     <Style id="poly-000000-1200-77-nodesc-normal">
       <LineStyle>
-        <color>ffbeb0a5</color>
+        <color>ff000000</color>
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d000000</color>
+        <color>ffbeb0a5</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -19,11 +19,11 @@
     </Style>
     <Style id="poly-000000-1200-77-nodesc-highlight">
       <LineStyle>
-        <color>ffbeb0a5</color>
+        <color>ff000000</color>
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d000000</color>
+        <color>ffbeb0a5</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
